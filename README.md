@@ -1,6 +1,3 @@
-Here's a complete `README.md` file content for your **DalleGen** MERN Stack AI Image Generator project, formatted just like your sample code:
-
-````markdown
 # DalleGen: MERN Stack AI Image Generator
 
 ## ✨ Project Overview
