@@ -10,7 +10,6 @@ DalleGen is a full-stack web application that leverages the power of Artificial 
 * **Backend:** Node.js, Express.js
 * **Database:** MongoDB
 * **AI Integration:** OpenAI API (DALL·E)
-* **Optional:** Cloudinary (for image storage)
 
 ## 🚀 Features
 
